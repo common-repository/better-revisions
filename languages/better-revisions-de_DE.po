@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: better-revisions\n"
+"POT-Creation-Date: 2016-11-08 11:01+0100\n"
+"PO-Revision-Date: 2016-11-08 11:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: Silvius Lehner <me@sile.at>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: better-revisions.php:70
+msgid "Author"
+msgstr "Autor"
+
+#: better-revisions.php:71
+msgid "Published on"
+msgstr "Veröffentlicht am"
+
+#: better-revisions.php:72
+msgid "Published on GMT"
+msgstr "Veröffentlicht am (GMT)"
+
+#: better-revisions.php:73
+msgid "Status"
+msgstr "Status"
+
+#: better-revisions.php:74
+msgid "Allow comments"
+msgstr "Kommentare erlauben"
+
+#: better-revisions.php:75
+msgid "Allow  trackbacks and pingbacks"
+msgstr "Erlaube  Trackbacks und Pingbacks auf dieser Seite"
+
+#: better-revisions.php:76
+msgid "Post Password"
+msgstr "Passwort"
+
+#: better-revisions.php:77
+msgid "Permalink"
+msgstr "Permalink"
+
+#: better-revisions.php:78
+msgid "Post Modified Date"
+msgstr "Geändert am"
+
+#: better-revisions.php:79
+msgid "Post Modified Date GMT"
+msgstr "Geändert am (GMT)"
+
+#: better-revisions.php:80
+msgid "Parent"
+msgstr "Eltern"
+
+#: better-revisions.php:81
+msgid "Order"
+msgstr "Reihenfolge"
+
+#: better-revisions.php:133
+msgid "(no parent)"
+msgstr "Hauptseite (keine Übergeordnete)"
+
+#: better-revisions.php:137
+msgid "yes"
+msgstr "Ja"
+
+#: better-revisions.php:139
+msgid "no"
+msgstr "Nein"
